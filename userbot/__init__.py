@@ -275,7 +275,7 @@ QUOTES_API_TOKEN = os.environ.get("QUOTES_API_TOKEN", None)
 
 # Defaul botlog msg
 BOTLOG_MSG = os.environ.get(
-    "BOTLOG_MSG") or "```║UDAH AKTIF YA SAYANG!!🔥🔥║\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Anda.\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰```"
+    "BOTLOG_MSG") or "```║UDAH AKTIF YA SAYANG!!💦💦║\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Kamu Sayang.\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰```"
 
 # Deezloader
 DEEZER_ARL_TOKEN = os.environ.get("DEEZER_ARL_TOKEN", None)
@@ -492,11 +492,11 @@ with bot:
                     buttons=[
                         [
                              Button.url(f"{EMOJI_HELP} 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 {EMOJI_HELP}",
-                                        "t.me/Ramubotinfo"),
+                                        "t.me/bahagiaslaluu"),
                              Button.url(f"{EMOJI_HELP} 𝗚𝗥𝗢𝗨𝗣 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 {EMOJI_HELP}",
-                                        "t.me/geezSupportGroup")],
+                                        "t.me/CARI_TEMAN_SLEEPCALL")],
                              [Button.url("👤 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 👤",
-                                        "t.me/MaafGausahSokap")],
+                                        "t.me/Tom_gultom")],
                     ]
                 )
 
@@ -522,7 +522,7 @@ with bot:
                 result = builder.photo(
                     file=ramlogo,
                     link_preview=False,
-                    text=f"{REPO_NAME}\n\n𝗣𝗘𝗠𝗜𝗟𝗜𝗞 𝗕𝗢𝗧 : {DEFAULTUSER}\n\n💫 𝗩𝗘𝗥𝗦𝗜 𝗕𝗢𝗧 : `7.0`\n💫 𝗠𝗢𝗗𝗨𝗟𝗘𝗦 : `{len(plugins)}`\n\n🔥 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : [{DEFAULTUSER}]({OWNER_BOT}) ".format(
+                    text=f"{REPO_NAME}\n\n𝗣𝗘𝗠𝗜𝗟𝗜𝗞 𝗕𝗢𝗧 : {DEFAULTUSER}\n\n🥵 𝗩𝗘𝗥𝗦𝗜 𝗕𝗢𝗧 : `7.0`\n🥵 𝗠𝗢𝗗𝗨𝗟𝗘𝗦 : `{len(plugins)}`\n\n💦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : [{DEFAULTUSER}]({OWNER_BOT}) ".format(
                         len(dugmeler),
                     ),
                     buttons=buttons,
