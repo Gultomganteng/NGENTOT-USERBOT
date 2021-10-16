@@ -1,7 +1,7 @@
 {
   "name": "NGENTOT-USERBOT",
   "description": "[NGENTOT-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
+  "logo": "https://telegra.ph/file/83797657107ea0d634582.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -24,7 +24,7 @@
     },
     "ALIVE_LOGO": {
       "description": "BUAT ALIVE LOGO MU SENDIRI.",
-      "value": "https://telegra.ph/file/e590ad501ad8981fb4684.jpg",
+      "value": "https://telegra.ph/file/83797657107ea0d634582.jpg",
       "required": true
      },
      "STRING_SESSION": {
