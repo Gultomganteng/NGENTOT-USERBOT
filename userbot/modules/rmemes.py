@@ -35,19 +35,19 @@ async def _(event):
 
         animation_chars = [
 
-            "Kontolll",
-            "Lo anak kontolll",
-            "Dibikin dari kontoll",
-            "Muka lo persis kontolll",
-            "Dasar anak NGONTOLLL!!!",
-            "Nolep kontoll",
-            "Ngerusuh kontoll",
-            "Bener bener kontoll",
-            "Padahal Lo gapunya kontolll",
-            "Karna Lo ga punya kontoll",
-            "Mending lo oprasi kontoll",
-            "Biar lo punya kontoll",
-            "Kasian cacat gada kontoll"
+            "KONTOL",
+            "LO ITU ANAK HARAM",
+            "DIBIKIN SAAT EMA LU LAGI NGEWE SAMA GUA",
+            "MAKANYA LU GA USH SOK SOK AN NGELAWAN GUA ANAK HARAM",
+            "GUA ITU ATASAN LU",
+            "SEDANG KAN LU ANAK HARAM",
+            "YANG SOK SOK AN NGERUSUH DIMARI",
+            "BIAR DI KIRA KEREN",
+            "PADALAH MALAH BIKIN MALU",
+            "KARNA LU JADI KELIATAN JUGA TOLOL NYA",
+            "UDAH ANAK HARAM,TOLOL JUGA HADEH",
+            "MENDING LU BANTUIN EMAK LU SONO",
+            "KASIAN EMAK LU NGELONTE SENDIRIAN KONTOL",
         ]
 
         for i in animation_ttl:
@@ -2476,18 +2476,18 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "@aaaaaaaaaaaaadddddddddddddmmmmmmmmmmmmmiiiiiiiiiiiiinnnnnnnnnnnnn",
-            "@aaaaaaaaaaaaddddddddddddmmmmmmmmmmmmiiiiiiiiiiiinnnnnnnnnnnn",
-            "@aaaaaaaaaaadddddddddddmmmmmmmmmmmiiiiiiiiiiinnnnnnnnnnn",
-            "@aaaaaaaaaaddddddddddmmmmmmmmmmiiiiiiiiiinnnnnnnnnn",
-            "@aaaaaaaaadddddddddmmmmmmmmmiiiiiiiiinnnnnnnnn",
-            "@aaaaaaaaddddddddmmmmmmmmiiiiiiiinnnnnnnn",
-            "@aaaaaaadddddddmmmmmmmiiiiiiinnnnnnn",
-            "@aaaaaaddddddmmmmmmiiiiiinnnnnn",
-            "@aaaaadddddmmmmmiiiiinnnnn",
-            "@aaaaddddmmmmiiiinnnn",
-            "@aaadddmmmiiinnn",
-            "@aaddmmiinn",
+            "MALAH JADI ADMIN DISINI LAGI FIKS SI INI GRUP ISI NYA ORANG TOLOL DAH LAH GUA OUT",
+            "CAPE CAPE DISEKOLAHIN KALAU EMANG TOLOL YA TETEP TOLOL",
+            "JADI NYA TOLOL KASIAN AMAT YA GUA SAMA ORANG TUA LU",
+            "GINI NIH ANAK YANG DI SEKOLAHIN MALAH CABUT NGEWE SAMA KUDA",
+            "MENDING BANTU BAPA LU MULUNG TOLOL",
+            "GA GUNA KAU MAIN TELE NGENTOT",
+            "MATI AJA LAH KAU ADMIN KONTOL",
+            "aaaaaaddddddmmmmmmiiiiiinnnnnn KONTOLLLL GA GUNA KAU JADI ADMIN NGENTOT",
+            "WOIIIIIIII aaaaadddddmmmmmiiiiinnnnn KONTOL",
+            "WOI KONTOL",
+            "aaadddmmmiiinnn",
+            "aaddmmiinn",
             "@admin"]
 
         for i in animation_ttl:
